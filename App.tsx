@@ -93,7 +93,7 @@ const App: React.FC = () => {
           </div>
           <h1 className="font-bold text-lg tracking-tight text-white flex items-center">
             <a 
-              href="https://www.threads.net/@33.shan.design?hl=zh-tw"
+              href="https://333shan.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400 transition-colors"
